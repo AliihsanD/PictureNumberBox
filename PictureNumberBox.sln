@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureNumberBox", "PictureNumberBox\PictureNumberBox.csproj", "{7BCE884D-C7C0-440F-98C8-0A784F834845}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidePuzzleGame", "PictureNumberBox\SlidePuzzleGame.csproj", "{7BCE884D-C7C0-440F-98C8-0A784F834845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

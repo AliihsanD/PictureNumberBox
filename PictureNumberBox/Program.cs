@@ -16,7 +16,7 @@ namespace PictureNumberBox
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new level1());
+            Application.Run(new GameScreen());
         }
     }
 }
